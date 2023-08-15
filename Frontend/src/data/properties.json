@@ -1,0 +1,61 @@
+[
+    {
+    "Id":1,
+    "SellRent":1,
+    "Name":"Perecent Bunglows",
+    "Type":"House",
+    "Price":12000,
+    "Image":"prop-1"
+    },
+    {
+      "Id":2,
+      "SellRent":1,
+      "Name":"Perecent Villa",
+      "Type":"House",
+      "Price":13500,
+      "Image":"prop-2"
+      },
+      {
+        "Id":3,
+        "SellRent":1,
+        "Name":"Perecent Flats",
+        "Type":"House",
+        "Price":15500,
+        "Image":""
+        },
+        {
+          "Id":4,
+          "SellRent":1,
+          "Name":"Emirates Height",
+          "Type":"House",
+          "Price":14400,
+          "Image":"prop-4"
+
+          },
+          {
+            "Id":5,
+            "SellRent":1,
+            "Name":"Pent House",
+            "Type":"House",
+            "Price":16000,
+            "Image":"prop-5"
+            },    
+
+            {
+              "Id":6,
+              "SellRent":2,
+              "Name":"Bakshi Towers",
+              "Type":"House",
+              "Price":20000,
+              "Image":"prop-6"
+              },
+              {
+                "Id":7,
+                "SellRent":2,
+                "Name":"SkyLine",
+                "Type":"House",
+                "Price":99000,
+                "Image":"prop-7"
+                }      
+
+]
